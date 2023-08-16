@@ -1,0 +1,5 @@
+Especificidad en CSS
+- Es como el navegador va a mostrar el CSS de acuerdo a que tan
+especifico es el Selector que hemos creado
+- CSS es en cascada, eso no significa que si un selector aparece después
+será tomado en cuenta sino más bien su especificidad
